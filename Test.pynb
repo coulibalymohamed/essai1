@@ -1,0 +1,63 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "toc_visible": true,
+      "authorship_tag": "ABX9TyMFoGBvozaNSJzUr8KigX5B",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/coulibalymohamed/python/blob/main/Test.pynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "FqEhq0BsLv2f",
+        "outputId": "8a7db4fd-5eb7-48a2-8c36-9fa2064c8079"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "salut tout le monde!\n"
+          ]
+        }
+      ],
+      "source": [
+        "print(\"salut tout le monde!\") "
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "salutation addressée au publique"
+      ],
+      "metadata": {
+        "id": "zU2sx3mxMAC4"
+      }
+    }
+  ]
+}
